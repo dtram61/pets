@@ -1,0 +1,17 @@
+{
+  "name": "vdanggre/328/taco",
+  "authors": [
+    {
+      "name": "Vuong Dang",
+      "email": "Dang.Vuong@student.greenriver.edu"
+    },
+    {
+      "name": "Duc Tram",
+      "email": "tram.duc@student.greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}

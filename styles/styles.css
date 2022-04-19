@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+}
+h2 {
+    display: flex;
+    float: right;
+    width: 45%;
+    color: white;
+}
+#desc {
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
